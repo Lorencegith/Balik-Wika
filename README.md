@@ -7,8 +7,8 @@ Balik-Wika is an interactive web platform integrated with Machine Learning desig
 ## 👥 The Team
 This project was a collaborative effort by:
 * **Lorence Gerona** – UI/UX Design & Front-end and Back-end Development
-* **Trinity Rosales**  UI/UX Design & Front-end and Back-end Development
-* **Aldren Magno**     UI/UX Design 
+* **Trinity Rosales** - UI/UX Design & Front-end and Back-end Development
+* **Aldren Magno** - UI/UX Design 
 
 ## 🛠️ Tech Stack
 * **Design:** Figma, Balsamiq
@@ -23,5 +23,6 @@ This project was a collaborative effort by:
 
 ## 📝 Note on Original Repository
 This project was originally hosted on Trinity Rosales's GitHub during initial development. This repository serves as my personal portfolio copy of our collective work.
+
 
 **Original Repository:** https://github.com/m1sstrinity/Balik-Wika-Try.git
